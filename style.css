@@ -1,6 +1,9 @@
 body {background: #24201e}
-html {color: white}
-h1 {font-Family: comic sans MS; 
-   font-size: 50px}
+html {color: white; font-Family: comic sans MS}
+h1 {font-size: 50px}
 p {font-family: arial}
 body {text-align: center}
+#subscribe {margin: -80px}
+h2 {font-size: 40px; text-align: left}
+h3 {font-size: 15px; text-align: left}
+#about-me {display:flex;flex-direction: row-reverse; align-items: center;gap: 20px;}

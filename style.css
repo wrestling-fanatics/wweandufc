@@ -1,4 +1,4 @@
-body {background: #24201e;margin: 0 10%}
+body {margin: 0 10%}
 html {color: white; font-Family: comic sans MS}
 h1 {font-size: 3.5em;margin:0.2em 0}
 p {font-family: arial}
@@ -13,4 +13,7 @@ h3 {font-size: 15px; text-align: left}
 iframe, img {border-radius: 1em;}
 #content{display:flex;flex-direction: column;align-items: center;}
 #profile{height: 7em;border-radius: 100px;}
-h4{font-size: 40px ;}
+h4{font-size: 40px ;margin: -10px;}
+body {
+  background-image: url("https://img.magnific.com/free-vector/zigzag-lines-pattern-black-background_1017-37483.jpg?semt=ais_hybrid&w=740&q=80"); background-attachment: fixed;
+}

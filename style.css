@@ -22,3 +22,7 @@ body {
 button{border-color: black; border-width:3px;}
 
 #fillin{border-width: 20px ; border-color: black;}
+
+#idea{border-radius: 1em; max-width: fit-content; max-height: fit-content ; font-family: Comic Sans MS;}
+#name{border-radius: 1em; width: 12em; height: 2em; font-family: Comic Sans MS;}
+#send {font-family: Comic Sans MS; border-color: darkgray; border-radius: 0.5em;}
